@@ -1,1 +1,1 @@
-write into file
+delete
