@@ -1,1 +1,1 @@
-display last 10 lines
+update 5 lines
